@@ -3,15 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://keycatowo.github.io/hugo-pratice/categories/</loc>
+    <loc>https://keycatowo.github.io/hugo-pratice/public/posts/first-post/</loc>
+    <lastmod>2021-03-08T19:40:45+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://keycatowo.github.io/hugo-pratice/</loc>
+    <loc>https://keycatowo.github.io/hugo-pratice/public/</loc>
+    <lastmod>2021-03-08T19:40:45+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://keycatowo.github.io/hugo-pratice/tags/</loc>
+    <loc>https://keycatowo.github.io/hugo-pratice/public/posts/</loc>
+    <lastmod>2021-03-08T19:40:45+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://keycatowo.github.io/hugo-pratice/public/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://keycatowo.github.io/hugo-pratice/public/tags/</loc>
   </url>
   
 </urlset>
